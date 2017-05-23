@@ -10,9 +10,12 @@ All we need from that url is this part "ljdgplocfnmnofbhpkjclbefmjoikgke"
 Usage
 
 ./ChromeCRXdownloader.sh
+
 It will then prompt you to 
+
 Input the ChromeID e.g ljdgplocfnmnofbhpkjclbefmjoikgke
 and then
+
 Input the output filename e.g ThreatPinch.crx
 
 
